@@ -1,0 +1,66 @@
+
+body{
+    background-color: aliceblue;
+}
+.rlogo{
+    width: 100px;
+    height: 100px;
+}
+.border,.logo,.features{
+    display:flex;
+}
+.home,.name,.about,.what,.project,.blogs,.contact{
+    padding-top: 70px;
+    padding-left: 30px;
+}
+.home{
+    padding-left: 440px;
+}
+.name{
+    color: rgb(9, 88, 92);
+}
+.yellow{
+    background-color: #eeee10;
+    margin-top: 70px;
+    height: 500px;
+    width:1200px;
+}
+.normal{
+    height: 70px;
+    width: 1250px;
+    background-color:rgb(233, 230, 230);
+    margin-left: 100px;
+}
+.content{
+    background-color: aliceblue;
+    width:500px;
+    height:350px;
+    margin-left:850px;
+    margin-top: 160px;   
+}
+
+.y-image{
+    margin-top: 70px;
+    padding-top: 38px;
+    padding-left: 150px;
+}
+.content,.image,.normal,.yellow{
+    position: absolute;
+}
+.image{
+    margin-top:50px;
+    margin-left:50px;
+}
+.message,.message1{
+    font-weight: bold;
+    color:  rgb(9, 88, 92);
+    font-size: 50px;
+    padding-left: 30px;
+}
+.l-message,.b-message{
+    padding-top:30px;
+    
+}
+.fline,.nline{
+    padding-left: 30px;
+}
